@@ -67,7 +67,7 @@ How to create macOS USB Installer?
 	Please select an option:  
 	```
 
-GUI Based
+### GUI Based
 
 * [Mist](https://github.com/ninxsoft/Mist)
 
