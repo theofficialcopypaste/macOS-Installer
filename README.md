@@ -7,7 +7,7 @@ How to create macOS USB Installer?
 
 * [gibMacOS](https://github.com/corpnewt/gibMacOS)
 
-  **Support**: Linux, Mac, Windows
+  **Support**: Linux, Mac, Windows 
 
 	Example:
 	```zsh
@@ -71,12 +71,12 @@ How to create macOS USB Installer?
 
 * [Mist](https://github.com/ninxsoft/Mist)
 
-  **Support**: Mac
+  **Support**: Mac, with multiple option `.app`, `.dmg`, `.iso` and `.pkg`
 
 <div align=center>
 
 ![2022-11-07_13-57-22](https://user-images.githubusercontent.com/72515939/200236489-583e706f-4390-4867-ad12-4b7a3af41bb3.png)
-![2022-11-07_14-07-53](https://user-images.githubusercontent.com/72515939/200238078-c436aecc-0ceb-45c9-8da7-95c9cba37500.png)
+![2022-11-07_14-07-53 (1)](https://user-images.githubusercontent.com/72515939/200238406-34b183c2-6350-4af3-a509-3aa1b9b6fb47.png)
 
 </div>
 
