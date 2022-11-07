@@ -76,6 +76,7 @@ How to create macOS USB Installer?
 <div align=center>
 
 ![2022-11-07_13-57-22](https://user-images.githubusercontent.com/72515939/200236489-583e706f-4390-4867-ad12-4b7a3af41bb3.png)
+![2022-11-07_14-03-27](https://user-images.githubusercontent.com/72515939/200237482-cf314c96-656d-4905-8645-427251239399.png)
 
 </div>
 
