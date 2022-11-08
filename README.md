@@ -85,32 +85,9 @@ How to create macOS USB Installer?
 ## Create USB
 
 1. Hit `Cmd + Space` and type Disk Utility
-
-<div align=center>
-	
-![2022-11-08_19-44-07](https://user-images.githubusercontent.com/72515939/200556302-a123350b-b392-4b5e-8a55-84251240dd2c.png)
-	
-</div>	
-
 2. Click View and Show All Devices
-
-<div align=center>
-	
-![2022-11-08_19-48-20](https://user-images.githubusercontent.com/72515939/200556508-966a6215-2d54-4bde-a095-c2c9d457eb4b.png)
-	
-</div>
-
 3. Choose any disk / USB Drive (Recommend 18GB+), Erase, Rename disk as `MyVolume` as Mac OS Extended (Journal) using GUID Partition Map.
-
-<div align=center>
-	
-![2022-11-08_19-44-45](https://user-images.githubusercontent.com/72515939/200556573-1ca0e3f7-823d-4405-abb4-91de62ae61a3.png)
-![2022-11-08_19-46-21 (1)](https://user-images.githubusercontent.com/72515939/200556663-d18f5f7d-38d6-4f3b-a27c-fcb02912f2d7.png)
-![2022-11-08_19-45-45](https://user-images.githubusercontent.com/72515939/200556672-a05c61c7-f4ec-4fc4-b41f-1e4745faeca6.png)
-	
-</div>
-
-4. Extract Install macOS XXXX.app from Install macOS xxxx.dmg (Manually) to /Applications or install downloaded InstallAssistant.pkg using [gibMacOS](https://github.com/corpnewt/gibMacOS) (Automatically move .apps to /Applications), open Terminal, paste macOS Install code and hit `Return` / `Enter`. Please follow further Instruction.
+4. Extract Install macOS xxxx.app from Install macOS xxxx.dmg (Manually) to /Applications or install downloaded InstallAssistant.pkg using [gibMacOS](https://github.com/corpnewt/gibMacOS) (Automatically move .apps to /Applications), open Terminal, paste macOS Install code and hit `Return` / `Enter`. Please follow further Instruction.
 
 ## Install Code 
 
