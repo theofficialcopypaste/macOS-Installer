@@ -7,65 +7,39 @@ How to create macOS USB Installer?
 
 * [gibMacOS](https://github.com/corpnewt/gibMacOS)
 
-  **Support**: Linux, Mac, Windows 
+**Support**: Linux, Mac, Windows 
 
-	Example:
-	```zsh
-	  #######################################################
-	 #                Downloading Catalog                  #
-	#######################################################
+```zsh
+  #######################################################
+ #                      gibMacOS                       #
+#######################################################
 	
-	Currently downloading publicrelease catalog from:
+Available Products:
 	
-	https://swscan.apple.com/content/catalogs/others/index-12-10.16-10.15-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog
+1. macOS Big Sur 11.7.1 (20G918)
+   - 012-90253 - Added 2022-10-24 17:16:38 - 12.42 GB
+2. macOS Monterey 12.6.1 (21G217)
+   - 012-90254 - Added 2022-10-24 17:15:48 - 12.41 GB
+3. macOS Ventura 13.0 (22A380)
+   - 012-92138 - Added 2022-10-24 17:14:11 - 12.16 GB
+4. macOS Big Sur 11.7 (20G817)
+   - 012-38280 - Added 2022-09-20 17:15:39 - 12.42 GB
+5. macOS Monterey 12.6 (21G115)
+   - 012-40494 - Added 2022-09-20 17:14:37 - 12.40 GB
+6. macOS Monterey 12.5.1 (21G83)
+   - 012-51693 - Added 2022-08-24 17:13:27 - 12.41 GB
 	
-	Downloaded 6.92 MB of 6.92 MB (100.00%)
-	```
-	```zsh
-	  #######################################################
-	 #                    Parsing Data                     #
-	#######################################################
+M. Change Max-OS Version (Currently 12)
+C. Change Catalog (Currently publicrelease)
+I. Only Print URLs (Currently Off)
+S. Set Current Catalog to SoftwareUpdate Catalog
+L. Clear SoftwareUpdate Catalog
+R. Toggle Recovery-Only (Currently Off)
+U. Show Catalog URL
+Q. Quit
 	
-	Scanning products after catalog download...
-	
-	 -->  1. macOS Mojave (18F2059)
-	 -->  2. macOS Mojave (18G103)
-	 -->  3. macOS High Sierra (17G66)
-	 -->  4. macOS Mojave (18E2034)
-	 -->  5. Install macOS High Sierra Beta (17F66a)
-	 -->  6. macOS Catalina (19D2064)
-	```
-	```zsh
-	  #######################################################
-	 #                      gibMacOS                       #
-	#######################################################
-	
-	Available Products:
-	
-	1. macOS Big Sur 11.7.1 (20G918)
-	   - 012-90253 - Added 2022-10-24 17:16:38 - 12.42 GB
-	2. macOS Monterey 12.6.1 (21G217)
-	   - 012-90254 - Added 2022-10-24 17:15:48 - 12.41 GB
-	3. macOS Ventura 13.0 (22A380)
-	   - 012-92138 - Added 2022-10-24 17:14:11 - 12.16 GB
-	4. macOS Big Sur 11.7 (20G817)
-	   - 012-38280 - Added 2022-09-20 17:15:39 - 12.42 GB
-	5. macOS Monterey 12.6 (21G115)
-	   - 012-40494 - Added 2022-09-20 17:14:37 - 12.40 GB
-	6. macOS Monterey 12.5.1 (21G83)
-	   - 012-51693 - Added 2022-08-24 17:13:27 - 12.41 GB
-	
-	M. Change Max-OS Version (Currently 12)
-	C. Change Catalog (Currently publicrelease)
-	I. Only Print URLs (Currently Off)
-	S. Set Current Catalog to SoftwareUpdate Catalog
-	L. Clear SoftwareUpdate Catalog
-	R. Toggle Recovery-Only (Currently Off)
-	U. Show Catalog URL
-	Q. Quit
-	
-	Please select an option:  
-	```
+Please select an option:  
+```
 
 ### GUI Based
 
