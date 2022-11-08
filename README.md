@@ -110,7 +110,7 @@ How to create macOS USB Installer?
 	
 </div>
 
-4. Extract Install macOS XXXX.app from Install macOS xxxx.dmg (Manual) to /Applications or install downloaded InstallAssistant.pkg using [gibMacOS](https://github.com/corpnewt/gibMacOS) (Automatically move .apps to /Applications), open Terminal and paste macOS Install code.
+4. Extract Install macOS XXXX.app from Install macOS xxxx.dmg (Manual) to /Applications or install downloaded InstallAssistant.pkg using [gibMacOS](https://github.com/corpnewt/gibMacOS) (Automatically move .apps to /Applications), open Terminal, paste macOS Install code and hit `Return` / `Enter`. Please follow further Instruction.
 
 ## Install Code 
 
