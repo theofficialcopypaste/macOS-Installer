@@ -80,7 +80,7 @@ How to create macOS USB Installer?
 
 </div>
 
-< **Note**: Refer [Mr. Macintosh](https://mrmacintosh.com/how-to-download-macos-catalina-mojave-or-high-sierra-full-installers/) for various alternative download methods.
+> **Note**: Refer [Mr. Macintosh](https://mrmacintosh.com/how-to-download-macos-catalina-mojave-or-high-sierra-full-installers/) for various alternative download methods.
 
 ## Create USB
 
