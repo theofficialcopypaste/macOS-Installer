@@ -39,6 +39,8 @@ Q. Quit
 Please select an option:  
 ```
 
+> **Note**: This tool will download multiple packages. BigSur+ and certain Catalina versions require `InstallAssistant.pkg` to build the apps. Mojave and below, require `BuildmacOSInstallApp.command` from [gibMacOS](https://github.com/corpnewt/gibMacOS).
+
 ### GUI Based
 
 [Mist](https://github.com/ninxsoft/Mist) (Mac, with multiple option `.app`, `.dmg`, `.iso` and `.pkg`)
@@ -61,37 +63,37 @@ Please select an option:
 
 ## Install Code 
 
-### Ventura
+* **Ventura**
 ```zsh
 sudo /Applications/Install\ macOS\ Ventura.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
 ```
 
-### Monterey
+* **Monterey**
 ```zsh
 sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
 ```
 
-### Big Sur
+* **Big Sur**
 ```zsh
 sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
 ```
 
-### Catalina
+* **Catalina**
 ```zsh
 sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
 ```
 
-### Mojave
+* **Mojave**
 ```zsh
 sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
 ```
 
-### High Sierra
+* **High Sierra**
 ```zsh
 sudo /Applications/Install\ macOS\ High\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
 ```
 
-### El Capitan
+* **El Capitan**
 ```zsh
 sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --applicationpath /Applications/Install\ OS\ X\ El\ Capitan.app
 ```
