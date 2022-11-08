@@ -41,7 +41,7 @@ Please select an option:
 
 > **Note**: This tool will download multiple packages. BigSur+ and certain Catalina versions require `InstallAssistant.pkg` to build the apps. Mojave and below, require `BuildmacOSInstallApp.command` from [gibMacOS](https://github.com/corpnewt/gibMacOS).
 
-[**Mist-Cli**](https://github.com/ninxsoft/Mist) (Mac)
+[**Mist-Cli**]([https://github.com/ninxsoft/Mist](https://github.com/ninxsoft/mist-cli)) (Mac)
 
 <div align=center>
 
