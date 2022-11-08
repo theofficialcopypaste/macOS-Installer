@@ -5,7 +5,7 @@ How to create macOS USB Installer?
 
 ### Terminal Based
 
-[gibMacOS](https://github.com/corpnewt/gibMacOS) (Linux, Mac, Windows)
+[**gibMacOS**](https://github.com/corpnewt/gibMacOS) (Linux, Mac, Windows)
 
 ```zsh
   #######################################################
@@ -41,6 +41,17 @@ Please select an option:
 
 > **Note**: This tool will download multiple packages. BigSur+ and certain Catalina versions require `InstallAssistant.pkg` to build the apps. Mojave and below, require `BuildmacOSInstallApp.command` from [gibMacOS](https://github.com/corpnewt/gibMacOS).
 
+[**Mist-Cli**](https://github.com/ninxsoft/Mist) (Mac)
+
+<div align=center>
+
+![Cli](https://github.com/ninxsoft/mist-cli/raw/main/README%20Resources/Firmwares.png)
+![Cli2](https://github.com/ninxsoft/mist-cli/raw/main/README%20Resources/Installers.png)
+
+</div>
+	
+> **Note**: A Mac command-line tool that automatically downloads macOS `Firmwares` / `Installers`. Alternatively, install via [Homebrew](https://brew.sh) by running `brew install mist`
+
 ### GUI Based
 
 [Mist](https://github.com/ninxsoft/Mist) (Mac, with multiple option `.app`, `.dmg`, `.iso` and `.pkg`)
@@ -52,7 +63,7 @@ Please select an option:
 
 </div>
 
-> **Note**: Refer [Mr. Macintosh](https://mrmacintosh.com/how-to-download-macos-catalina-mojave-or-high-sierra-full-installers/) for various alternative download methods.
+> **Note**: A Mac utility that automatically downloads macOS `Firmwares` / `Installers`.
 
 ## Create USB
 
@@ -60,6 +71,8 @@ Please select an option:
 2. Click View and Show All Devices
 3. Choose any disk / USB Drive (Recommend 18GB+), Erase, Rename disk as `MyVolume` as Mac OS Extended (Journal) using GUID Partition Map.
 4. Extract Install macOS xxxx.app from Install macOS xxxx.dmg (Manually) to /Applications or install downloaded InstallAssistant.pkg using [gibMacOS](https://github.com/corpnewt/gibMacOS) (Automatically move .apps to /Applications), open Terminal, paste macOS Install code and hit `Return` / `Enter`. Please follow further Instruction.
+
+> **Note**: Refer [Mr. Macintosh](https://mrmacintosh.com/how-to-download-macos-catalina-mojave-or-high-sierra-full-installers/) for various alternative download methods.
 
 ## Install Code 
 
