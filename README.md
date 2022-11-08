@@ -91,8 +91,6 @@ How to create macOS USB Installer?
 
 ## Install Code 
 
-> **Note**: This code only work on macOS. (Require to move Install macOS XXXXXX.app to /Application)
-
 ### Ventura
 ```zsh
 sudo /Applications/Install\ macOS\ Ventura.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
@@ -127,3 +125,5 @@ sudo /Applications/Install\ macOS\ High\ Sierra.app/Contents/Resources/createins
 ```zsh
 sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --applicationpath /Applications/Install\ OS\ X\ El\ Capitan.app
 ```
+
+> **Note**: This code only work on macOS. (Require to move Install macOS XXXXXX.app to /Application)
