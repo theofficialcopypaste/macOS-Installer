@@ -5,9 +5,7 @@ How to create macOS USB Installer?
 
 ### Terminal Based
 
-* [gibMacOS](https://github.com/corpnewt/gibMacOS)
-
-**Support**: Linux, Mac, Windows 
+[gibMacOS](https://github.com/corpnewt/gibMacOS) (Linux, Mac, Windows)
 
 ```zsh
   #######################################################
@@ -43,9 +41,7 @@ Please select an option:
 
 ### GUI Based
 
-* [Mist](https://github.com/ninxsoft/Mist)
-
-  **Support**: Mac, with multiple option `.app`, `.dmg`, `.iso` and `.pkg`
+[Mist](https://github.com/ninxsoft/Mist) (Mac, with multiple option `.app`, `.dmg`, `.iso` and `.pkg`)
 
 <div align=center>
 
