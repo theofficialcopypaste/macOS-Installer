@@ -111,4 +111,4 @@ sudo /Applications/Install\ macOS\ High\ Sierra.app/Contents/Resources/createins
 sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --applicationpath /Applications/Install\ OS\ X\ El\ Capitan.app
 ```
 
-> **Note**: This code only work on macOS. (Require to move Install macOS XXXXXX.app to /Application)
+> **Note**: This code only work on macOS. (Require to move Install macOS xxxx.app to /Application)
