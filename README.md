@@ -67,10 +67,10 @@ Please select an option:
 
 ## Create USB
 
-1. Hit `Cmd + Space` and type Disk Utility
+1. Hit `Cmd + Space` and type `Disk Utility`
 2. Click View and Show All Devices
 3. Choose any disk / USB Drive (Recommend 18GB+), Erase, Rename disk as `MyVolume` as Mac OS Extended (Journal) using GUID Partition Map.
-4. Extract Install macOS xxxx.app from Install macOS xxxx.dmg (Manually) to /Applications or install downloaded InstallAssistant.pkg using [gibMacOS](https://github.com/corpnewt/gibMacOS) (Automatically move .apps to /Applications), open Terminal, paste macOS Install code and hit `Return` / `Enter`. Please follow further Instruction.
+4. Extract `Install macOS xxxx.app` from `Install macOS xxxx.dmg` (Manually) to /Applications or install downloaded `InstallAssistant.pkg` using [gibMacOS](https://github.com/corpnewt/gibMacOS) (Automatically move .apps to /Applications), open Terminal, paste macOS Install code and hit `Return` / `Enter`. Please follow further Instruction.
 
 > **Note**: Refer [Mr. Macintosh](https://mrmacintosh.com/how-to-download-macos-catalina-mojave-or-high-sierra-full-installers/) for various alternative download methods.
 
